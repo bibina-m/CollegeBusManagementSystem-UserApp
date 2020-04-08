@@ -1,0 +1,19 @@
+…or create a new repository on the command line initial //create new repositoryfrom github acoount then open c,d from project folder then do in cmd
+echo "# driver-tracker" >> README.md
+step 1:git init
+step 2:git add .(for adding specific file git add filename )
+step 3:git commit -m "first commit"
+
+
+…or push an existing repository from the command line
+step 4:git remote add origin https://github.com/bibina-m/driver-tracker.git
+step 5:git push -u origin master  …or import code from another repository
+
+
+for updating existing projec tin github
+ do
+   step 2
+   step 3
+  step 5(only git push)
+
+
