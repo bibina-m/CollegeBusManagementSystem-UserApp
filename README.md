@@ -1,4 +1,4 @@
 
 Brief Description:
-UserApp is handles by the studdents,Teachers or parents(registered by the Bus Authorities) and Bus Authorities from the college.Students can view the live location of corresponding bus(using bus no) adn schedules for their routes).
-It uses Google Firebase services(Realtime database).
+UserApp can be handled by the students, teachers or parents with the sole condition that they have to be registered along with the bus authorities from the college.Students can view the live location as well as their schedules for the routes using the bus number. The App utilises Gooogle Firebase service which is a real time database service. 
+
